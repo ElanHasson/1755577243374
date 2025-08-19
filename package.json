@@ -1,6 +1,9 @@
 {
   "name": "f-for-normal-people",
   "version": "1.0.0",
+  "cacheDirectories": [
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
